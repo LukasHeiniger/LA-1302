@@ -61,10 +61,10 @@ Auch wollen wir lernen wie man in 3D alles programmiert, wie wir es bei der 2D g
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  | 22.11      |  Mirhan         |  Spieler soll sich bewegen können            |    45 Minuten           |
-| 2.A  | 22.11      |  Lukas         |   Spieler soll springen können           |    45 Minuten           |
+| 2.A  | 22.11      |  Mirhan         |   Spieler soll springen können           |    45 Minuten           |
 | 3.A  |  22.11     |  Mirhan         |   Spieler soll sich ducken können           |  20 Minuten             |
 | 4.A  |  22.11     |   Lukas        |  Besiegbare Zombies            |  90 Minuten             |
-| 5.A  |  22.11     |  Mirhan         |  Waffen            |  90 Minuten             |
+| 5.A  |  22.11     |  Lukas         |  Waffen            |  90 Minuten             |
 | 6.A  |  29.11     |  Lukas         |  Basis bauen            |  120 Minuten             |
 | 7.A  |  29.11     |  Mirhan        |  Items herstellen            |  120 Minuten             |
 | 8.A  | 29.11      |  Lukas         |  Items aufsammeln            | 90 Minuten              |
