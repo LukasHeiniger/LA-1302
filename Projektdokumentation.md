@@ -61,7 +61,11 @@ Auch wollen wir lernen wie man in 3D alles programmiert, wie wir es bei der 2D g
 | 10.1  | Onjekt mit Animationen ist vorhanden             |   /      |    Animationen werden abgespielt               |
 | 11.1  | Objekt welches Sound abspielen kann ist vorhanden             |  /       |   Sound wird abgespielt                |
 | 12.1  | Spiel wird gestartet             |     /    |      Karte ist vorhanden             |
-| 13.1  |              |         |                   |
+| 13.1  |   Der Spieler hat Essen oder Trinken           |  Item wird gegessen       |     Hunger oder Durst wird gestillt              |
+| 14.1  |  Der Spieler hat ein Fortbewegungsmittel gefunden            |   W/A/S/D      |   Fortbewgungsmittel bewegt sich                |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
 | ...  |              |         |                   |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
