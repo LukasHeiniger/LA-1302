@@ -47,21 +47,21 @@ Auch wollen wir lernen wie man in 3D alles programmiert, wie wir es bei der 2D g
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-| 1.1  |              |         |                   |
+| 1.1  | Spiel wurde gestartet             |  W/A/S/D       | Spieler bewegt sich                  |
+| 2.1  | Spiel wurde gestartet             | Space        |  Spieler sprint                 |
+| 3.1  | Spiel wurde gestartet               |  CTRL       |   Spieler duckt sich                |
+| 4.1 | Spieler erkundet sich             | /         |      Zombies sind vorhanden             |
+| 5.1  | Waffe wird ausgerüstet             |   Linksklick      |     Waffe feuert              |
+| 5.2 |  Waffe wurde benutzt            |    R     |     Waffe wird nachgeladen, wenn Mun. vorhandenist              |
+| 6.1  | Materialien sind vorhanden             |   ?      |   Unterschlupf kann gebaut werden                |
+| 7.1  |  Materialien sind vorhanden            |  I       |      Inventar öffnet sich mit der möglichkeit Items herzustellen.             |
+| 8.1  |  Item liegt auf dem Boden            |    E     |       Objekt wird aufgehoben und im Inventar gespeichert            |
+| 9.1  | Baum ist vorhanden              | Linksklick mit Axt        |       Baum fällt um Ressourcen werden dem Spieler hinzugefügt            |
+| 9.2  | Stein ist vorhanden             | Linksklick mit Spitzhacke        |   Stein wird abgebaut und Ressourcen werden dem Spieler hinzugefügt                |
+| 10.1  | Onjekt mit Animationen ist vorhanden             |   /      |    Animationen werden abgespielt               |
+| 11.1  | Objekt welches Sound abspielen kann ist vorhanden             |  /       |   Sound wird abgespielt                |
+| 12.1  | Spiel wird gestartet             |     /    |      Karte ist vorhanden             |
+| 13.1  |              |         |                   |
 | ...  |              |         |                   |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
@@ -113,7 +113,7 @@ Total:
 
 ## 5 Kontrollieren
 
-| TC-№ | Datum | Resultat | Tester |Tesumgeung|
+| TC-№ | Datum | Resultat | Tester |Testumgebung|
 | ---- | ----- | -------- | ------ | ---------|
 | 1.1  |       |          |        ||
 | ...  |       |          |        ||
