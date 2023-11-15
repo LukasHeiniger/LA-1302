@@ -1,6 +1,6 @@
 # Projekt-Dokumentation
 
-Mirhan Özden, Lukas Heiniger
+Mirhan Özden, Lukas Heiniger Mirhan
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
