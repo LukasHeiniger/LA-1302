@@ -12,10 +12,11 @@ Mirhan Özden, Lukas Heiniger
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Unser Projekt ist ein 3D-Survival Videospiel. welches wir in Unity programmieren.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
-
+Unser Ziel ist es, ein Spiel zu programmieren, welches man selber ein paar Stunden lang privat spielen würde, ohne dass es langweilig wird.
+Dabei wollen wir folgende Sachen lernen: Wie man Verschiedene Waffen einfügt, wie man in 3D Gegner einfügt, wie man Gegenstände aufheben kann etc. 
+Auch wollen wir lernen wie man in 3D alles programmiert, wie wir es bei der 2D gemacht haben.
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
