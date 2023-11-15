@@ -49,6 +49,20 @@ Auch wollen wir lernen wie man in 3D alles programmiert, wie wir es bei der 2D g
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |              |         |                   |
 | ...  |              |         |                   |
+| 1.1  |              |         |                   |
+| ...  |              |         |                   |
+| 1.1  |              |         |                   |
+| ...  |              |         |                   |
+| 1.1  |              |         |                   |
+| ...  |              |         |                   |
+| 1.1  |              |         |                   |
+| ...  |              |         |                   |
+| 1.1  |              |         |                   |
+| ...  |              |         |                   |
+| 1.1  |              |         |                   |
+| ...  |              |         |                   |
+| 1.1  |              |         |                   |
+| ...  |              |         |                   |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -99,10 +113,10 @@ Total:
 
 ## 5 Kontrollieren
 
-| TC-№ | Datum | Resultat | Tester |
-| ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| TC-№ | Datum | Resultat | Tester |Tesumgeung|
+| ---- | ----- | -------- | ------ | ---------|
+| 1.1  |       |          |        ||
+| ...  |       |          |        ||
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
