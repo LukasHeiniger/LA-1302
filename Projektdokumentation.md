@@ -128,9 +128,9 @@ Total:
 |13.A|6.12|Lukas Heiniger||||
 |14.A|6.12|Lukas Heiniger||||
 |15.A|6.12|Lukas Heiniger||||
-|16.A|6.12|Mirhan|120 Minuten|200 Minuten|
-|17.A|6.12|Mirhan|120 Minuten|150 Minuten|
-|18.A|13.12|Mirhan|90 Minuten|120 Minuten|
+|16.A|6.12|Mirhan Özden|120 Minuten|200 Minuten|
+|17.A|6.12|Mirhan Özden|120 Minuten|150 Minuten|
+|18.A|13.12|Mirhan Özden|90 Minuten|120 Minuten|
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
