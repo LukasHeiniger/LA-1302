@@ -125,18 +125,20 @@ Total:
 | 4.1  | 10.01.24|  ist vorhanden       | Lukas       | Zuhause am Schreibtisch |
 | 5.1  | 10.01.24| funktioniert bis auf das wechseln         | Lukas       | Zuhause am Schreibtisch |
 | 5.2  | 10.01.24| funktioniert         | Lukas       | Zuhause am Schreibtisch |
-| 1.1  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
-| ...  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
-| 1.1  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
-| ...  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
-| 1.1  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
-| ...  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
-| 1.1  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
-| ...  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
-| 1.1  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
-| ...  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
-| 1.1  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
-| ...  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
+| 6.1  | 10.01.24| funktioniert nicht         | Lukas       | Zuhause am Schreibtisch |
+| 7.1  | 10.01.24| funktioniert          | Lukas       | Zuhause am Schreibtisch |
+| 8.1  | 10.01.24| funktioniert          | Lukas       | Zuhause am Schreibtisch |
+| 9.1  | 10.01.24| nicht vorhanden        | Lukas       | Zuhause am Schreibtisch |
+| 9.2  | 10.01.24| nicht vorhanden          | Lukas       | Zuhause am Schreibtisch |
+| 10.1  | 10.01.24| ist vorhanden         | Lukas       | Zuhause am Schreibtisch |
+| 11.1  | 10.01.24| ist vorhanden         | Lukas       | Zuhause am Schreibtisch |
+| 12.1  | 10.01.24| ist vorhanden         | Lukas       | Zuhause am Schreibtisch |
+| 13.1  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
+| 14.1  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
+| 15.1  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
+| 15.2  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
+| 16.1  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
+| 16.2  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
 
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
