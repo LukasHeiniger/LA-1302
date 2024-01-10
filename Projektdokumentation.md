@@ -48,7 +48,7 @@ Auch wollen wir lernen wie man in 3D alles programmiert, wie wir es bei der 2D g
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Spiel wurde gestartet             |  W/A/S/D       | Spieler bewegt sich                  |
-| 2.1  | Spiel wurde gestartet             | Space        |  Spieler sprint                 |
+| 2.1  | Spiel wurde gestartet             | Shift und W/A/S/D        |  Spieler sprint                 |
 | 3.1  | Spiel wurde gestartet               |  CTRL       |   Spieler duckt sich                |
 | 4.1 | Spieler erkundet sich             | /         |      Zombies sind vorhanden             |
 | 5.1  | Waffe wird ausgerüstet             |   Linksklick      |     Waffe feuert              |
@@ -119,8 +119,25 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |Testumgebung|
 | ---- | ----- | -------- | ------ | ---------|
-| 1.1  |       |          |        ||
-| ...  |       |          |        ||
+| 1.1  | 10.01.24|  funktioniert        | Lukas       | Zuhause am Schreibtisch |
+| 2.1  | 10.01.24|  funktioniert        | Lukas       | Zuhause am Schreibtisch |
+| 3.1  | 10.01.24|  funktioniert        | Lukas       | Zuhause am Schreibtisch |
+| 4.1  | 10.01.24|  ist vorhanden       | Lukas       | Zuhause am Schreibtisch |
+| 5.1  | 10.01.24| funktioniert bis auf das wechseln         | Lukas       | Zuhause am Schreibtisch |
+| 5.2  | 10.01.24| funktioniert         | Lukas       | Zuhause am Schreibtisch |
+| 1.1  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
+| ...  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
+| 1.1  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
+| ...  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
+| 1.1  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
+| ...  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
+| 1.1  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
+| ...  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
+| 1.1  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
+| ...  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
+| 1.1  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
+| ...  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
+
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
