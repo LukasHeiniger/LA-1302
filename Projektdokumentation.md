@@ -133,16 +133,14 @@ Total:
 | 10.1  | 10.01.24| ist vorhanden         | Lukas       | Zuhause am Schreibtisch |
 | 11.1  | 10.01.24| ist vorhanden         | Lukas       | Zuhause am Schreibtisch |
 | 12.1  | 10.01.24| ist vorhanden         | Lukas       | Zuhause am Schreibtisch |
-| 13.1  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
-| 14.1  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
-| 15.1  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
-| 15.2  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
-| 16.1  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
-| 16.2  | 10.01.24|          | Lukas       | Zuhause am Schreibtisch |
+| 13.1  | 10.01.24| nicht vorhanden         | Lukas       | Zuhause am Schreibtisch |
+| 14.1  | 10.01.24| nicht vorhanden         | Lukas       | Zuhause am Schreibtisch |
+| 15.1  | 10.01.24| nicht vorhanden         | Lukas       | Zuhause am Schreibtisch |
+| 15.2  | 10.01.24| nicht vorhanden         | Lukas       | Zuhause am Schreibtisch |
+| 16.1  | 10.01.24| nicht vorhanden        | Lukas       | Zuhause am Schreibtisch |
+| 16.2  | 10.01.24| nicht vorhanden         | Lukas       | Zuhause am Schreibtisch |
 
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Da wir nicht alles in der vorgegebene Zeit schaffen konnten haben wir uns auf die wichtigsten Funktionen fokussiert. Trozdem sind wir recht zufrieden mit dem Ergebnis
 
-## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
