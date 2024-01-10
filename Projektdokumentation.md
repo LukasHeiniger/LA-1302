@@ -117,17 +117,17 @@ Total:
 | 2.A  | 22.11       | Mirhan Özden          |    50 Minuten           |   40 Minuten                |
 |3.A|22.11 |Mirhan Özden| 50 Minuten| 45 Minuten   |
 |4.A|22.11|Mirhan Özden|10 Minuten|10 Minuten|
-|5.A||Lukas Heiniger|||
-|6.A||Lukas Heiniger|||
-|7.A||Lukas Heiniger|||
+|5.A|22.11|Lukas Heiniger|||
+|6.A|22.11|Lukas Heiniger|||
+|7.A|29.11|Lukas Heiniger|||
 |8.A|29.11|Mirhan Özden|120 Minuten| 200 Minuten (Funktioniert nicht ganz)|
-|9.A||Mirhan Özden|120 Minuten|150 Minuten|
-|10.A|Mirhan Özden|120 Minuten|(Wegen der Zeit nicht geschafft)|
-|11.A|Lukas Heiniger||||
+|9.A|29.11|Mirhan Özden|120 Minuten|150 Minuten|
+|10.A|29.11|Mirhan Özden|120 Minuten|(Wegen der Zeit nicht geschafft)|
+|11.A|6.12|Lukas Heiniger||||
 |12.A|6.12|Mirhan Özden|90 Minuten|70 Minuten|
-|13.A|Lukas Heiniger||||
-|14.A|Lukas Heiniger||||
-|15.A|Lukas Heiniger||||
+|13.A|6.12|Lukas Heiniger||||
+|14.A|6.12|Lukas Heiniger||||
+|15.A|6.12|Lukas Heiniger||||
 |16.A|6.12|Mirhan|120 Minuten|200 Minuten|
 |17.A|6.12|Mirhan|120 Minuten|150 Minuten|
 |18.A|13.12|Mirhan|90 Minuten|120 Minuten|
