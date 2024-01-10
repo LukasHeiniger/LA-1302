@@ -78,21 +78,24 @@ Auch wollen wir lernen wie man in 3D alles programmiert, wie wir es bei der 2D g
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 22.11      |  Mirhan         |  Spieler soll sich bewegen können            |    45 Minuten           |
-| 2.A  | 22.11      |  Mirhan         |   Spieler soll springen können           |    45 Minuten           |
-| 3.A  |  22.11     |  Mirhan         |   Spieler soll sich ducken können           |  20 Minuten             |
-| 4.A  |  22.11     |   Lukas        |  Besiegbare Zombies            |  90 Minuten             |
-| 5.A  |  22.11     |  Lukas         |  Waffen            |  90 Minuten             |
-| 6.A  |  29.11     |  Lukas         |  Basis bauen            |  120 Minuten             |
-| 7.A  |  29.11     |  Mirhan        |  Items herstellen            |  120 Minuten             |
-| 8.A  | 29.11      |  Lukas         |  Items aufsammeln            | 90 Minuten              |
-| 9.A  | 29.11      |  Mirhan         |   Bäume/Steine abbauen           |  120 Minuten             |
-| 10.A  |  6.12     |  Lukas         |  Animationen einbauen            | 60 Minuten              |
-| 11.A  |  6.12     |  Mirhan         | Sounds einbauen             |  90 Minuten             |
-| 12.A  | 6.12      |  Lukas         | Karte             | 60 Minuten              |
-| 13.A  | 6.12      |  Mirhan         |  Essen & Trinken            |  90 Minuten             |
-| 14.A  | 6.12      |  Lukas         |   Fortbewegungsmittel           | 90 Minuten              |
-
+| 1.A  | 22.11      |  Mirhan         |  Spieler soll sich bewegen können            |    50 Minuten           |
+| 2.A  | 22.11      |  Mirhan         |   Spieler soll springen können           |    50 Minuten           |
+| 3.A  |  22.11     |  Mirhan         |   Spieler soll sich ducken können           |  50 Minuten             |
+|4.A   |22.11       |Mirhan           |Einen Cursor machen                          |15 Minuten|
+| 5.A  |  22.11     |   Lukas        |  Besiegbare Zombies            |  90 Minuten             |
+| 6.A  |  22.11     |  Lukas         |  Waffen            |  90 Minuten             |
+| 7.A  |  29.11     |  Lukas         |  Basis bauen            |  120 Minuten             |
+| 8.A  |  29.11     |  Mirhan        |  Items herstellen            |  120 Minuten             |
+| 9.A  | 29.11      |  Mirhan         |  Items aufsammeln            | 120 Minuten              |
+| 10.A  | 29.11      |  Mirhan         |   Bäume/Steine abbauen           |  120 Minuten             |
+| 11.A  |  6.12     |  Lukas         |  Animationen einbauen            | 60 Minuten              |
+| 12.A  |  6.12     |  Mirhan         | Sounds einbauen             |  90 Minuten             |
+| 13.A  | 6.12      |  Lukas         | Karte             | 60 Minuten              |
+| 14.A  | 6.12      |  Lukas         |  Essen & Trinken            |  90 Minuten             |
+| 15.A  | 6.12      |  Lukas         |   Fortbewegungsmittel           | 90 Minuten              |
+|16.A   |6.12       |Mirhan          |Inventarsystem machen|180 Minuten|
+|17.A   |6.12       |Mirhan          |Gegenstände im Inventar sortieren können|120 Minuten
+|18.A   |13.12      |Mirhan          |    Ein Text soll erscheinen, je nachdem welchen Gegenstand man anschaut             | 90 Minuten  |
 
 
 
@@ -110,8 +113,24 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |  22.11     |  Mirhan Özden         |   50 Minuten            |   40 Minuten                |
+| 2.A  | 22.11       | Mirhan Özden          |    50 Minuten           |   40 Minuten                |
+|3.A|22.11 |Mirhan Özden| 50 Minuten| 45 Minuten   |
+|4.A|22.11|Mirhan Özden|10 Minuten|10 Minuten|
+|5.A||Lukas Heiniger|||
+|6.A||Lukas Heiniger|||
+|7.A||Lukas Heiniger|||
+|8.A|29.11|Mirhan Özden|120 Minuten| 200 Minuten (Funktioniert nicht ganz)|
+|9.A||Mirhan Özden|120 Minuten|150 Minuten|
+|10.A|Mirhan Özden|120 Minuten|(Wegen der Zeit nicht geschafft)|
+|11.A|Lukas Heiniger||||
+|12.A|6.12|Mirhan Özden|90 Minuten|70 Minuten|
+|13.A|Lukas Heiniger||||
+|14.A|Lukas Heiniger||||
+|15.A|Lukas Heiniger||||
+|16.A|6.12|Mirhan|120 Minuten|200 Minuten|
+|17.A|6.12|Mirhan|120 Minuten|150 Minuten|
+|18.A|13.12|Mirhan|90 Minuten|120 Minuten|
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
