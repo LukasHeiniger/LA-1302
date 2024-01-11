@@ -89,6 +89,8 @@ Dabei wollen wir folgende Sachen lernen: Wie man verschiedene Waffen einfügt, w
 |16.A   |6.12       |Mirhan          |Inventarsystem machen|180 Minuten|
 |17.A   |6.12       |Mirhan          |Gegenstände im Inventar sortieren können|120 Minuten
 |18.A   |13.12      |Mirhan          |    Ein Text soll erscheinen, je nachdem welchen Gegenstand man anschaut             | 90 Minuten  |
+| 19.A  | 20.12      |  Lukas         |  Lebensanzeige           |  45 Minuten             |
+| 20.A  | 20.12      |  Lukas         |   Ausdaueranzeige           | 45 Minuten              |
 
 
 ## 3 Entscheiden
@@ -117,8 +119,10 @@ Wir haben uns nach dem Informieren und Planen dafür entschieden, das wir nur di
 |16.A|6.12|Mirhan Özden|120 Minuten|200 Minuten|
 |17.A|6.12|Mirhan Özden|120 Minuten|150 Minuten|
 |18.A|13.12|Mirhan Özden|90 Minuten|120 Minuten|
+|19.A|9.1|Lukas Heiniger|45min|90min|
+|20.A|9.1|Lukas Heiniger|45min|90min|
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
