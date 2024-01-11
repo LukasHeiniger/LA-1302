@@ -41,9 +41,6 @@ Dabei wollen wir folgende Sachen lernen: Wie man verschiedene Waffen einfügt, w
 
 
 
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
-
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
@@ -69,11 +66,6 @@ Dabei wollen wir folgende Sachen lernen: Wie man verschiedene Waffen einfügt, w
 | 16.1  | Spieler spiel Spiel             | Spiel wird gespeichert        |   Spiel wurde abgespeichert                |
 | 16.2 | Savegame vorhanden             | Spieler lädt Savegame        |      Spielfortschritt ist vorhanden             |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
-
-### 1.4 Diagramme
-
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
 
 ## 2 Planen
 
