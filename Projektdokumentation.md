@@ -122,7 +122,7 @@ Wir haben uns nach dem Informieren und Planen dafür entschieden, das wir nur di
 |17.A|6.12|Mirhan Özden|120 Minuten|150 Minuten|
 |18.A|13.12|Mirhan Özden|90 Minuten|120 Minuten|
 |19.A|9.1|Lukas Heiniger|45min|90min|
-|20.A|9.1|Lukas Heiniger|45min|90min|
+|20.A|9.1|Lukas Heiniger|45min|100min|
 
 
 
