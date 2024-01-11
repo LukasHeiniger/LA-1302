@@ -37,7 +37,9 @@ Dabei wollen wir folgende Sachen lernen: Wie man verschiedene Waffen einfügt, w
 | 13   | muss                | funktional     | Als ein Spieler möchte ich essen und trinken, damit es noch schwieriger ist zu überleben. |
 | 14 |   kann              | funktional     |  Als ein Spieler möchte ich ein Fortbewegungsmittel verwenden, dmait ich mich schneller und sicherer fortbewegen kann.                                  |
 | 15   |  kann               | funktional     | Als ein Spieler möchte ich Erfahrung (XP) sammeln, damit ich meinen Charakter verbessern kann. |
-| 16 |   kann              | funktional     |  Als ein Spieler möchte ich mein Spiel speichern und laden können, damit meine Welt gespeichert ist und ich sie diese ein anderes Mal wieder starten kann  |       
+| 16 |   kann              | funktional     |  Als ein Spieler möchte ich mein Spiel speichern und laden können, damit meine Welt gespeichert ist und ich sie diese ein anderes Mal wieder starten kann  |    
+| 16 |   muss            | funktional     | Als ein Spieler möchte ich meine Ausdauer sehen an hand einer Ausdauerleiste, damit ich weiss wie lange ich noch sprinten kann. |    
+| 16 |  muss            | funktional     |  Als ein Spieler möchte ich sehen wie viel Leben ich noch habe, dies möchte ich anhand eine Lebensanzeige sehen, damit ich immmer weiss wie viel Leben ich noch habe  |       
 
 
 
