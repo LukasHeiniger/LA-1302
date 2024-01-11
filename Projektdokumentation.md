@@ -4,9 +4,11 @@ Mirhan Özden, Lukas Heiniger Mirhan
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 15.11      | 0.0.1   | Informationen für das Projekt gesammelt.  |
+| 22.11      | 0.0.2   |Angefangen mit dem Programmieren erster Prototyp des Zombies.                                                              |
+| 29.11 -13.12      | 0.0.3   |   Weitere Arbeit am Projekt                                                           |
+| 20.12     | 0.1.0   |   Erster Prototyp                                                       |
+| 10.1     | 1.0.0   |   Grösstenteils fertiges Spiel                                                       |
 
 ## 1 Informieren
 
@@ -16,7 +18,7 @@ Unser Projekt ist ein 3D-Survival Videospiel. welches wir in Unity programmieren
 
 Unser Ziel ist es, ein Spiel zu programmieren, welches man selber ein paar Stunden lang privat spielen würde, ohne dass es langweilig wird.
 Dabei wollen wir folgende Sachen lernen: Wie man Verschiedene Waffen einfügt, wie man in 3D Gegner einfügt, wie man Gegenstände aufheben kann etc. 
-Auch wollen wir lernen wie man in 3D alles programmiert, wie wir es bei der 2D gemacht haben.
+Zudem möchten wir die Fähigkeiten die wir beim 2d Spiel erlernt habe nun auch für 3d anwenden.
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
