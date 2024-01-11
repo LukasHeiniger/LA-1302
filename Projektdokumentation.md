@@ -14,11 +14,10 @@ Mirhan Özden, Lukas Heiniger Mirhan
 
 ### 1.1 Ihr Projekt
 
-Unser Projekt ist ein 3D-Survival Videospiel. welches wir in Unity programmieren.
+Unser Projekt ist ein 3D-Survival Videospiel. Welches wir in Unity programmieren.
 
-Unser Ziel ist es, ein Spiel zu programmieren, welches man selber ein paar Stunden lang privat spielen würde, ohne dass es langweilig wird.
-Dabei wollen wir folgende Sachen lernen: Wie man Verschiedene Waffen einfügt, wie man in 3D Gegner einfügt, wie man Gegenstände aufheben kann etc. 
-Zudem möchten wir die Fähigkeiten die wir beim 2d Spiel erlernt habe nun auch für 3d anwenden.
+Unser Ziel ist es, ein Spiel zu programmieren, welches man selber ein paar Stunden lang privat spielen würde, ohne dass es langweilig wird. 
+Dabei wollen wir folgende Sachen lernen: Wie man verschiedene Waffen einfügt, wie man in 3D Gegner einfügt, wie man Gegenstände aufheben kann etc. Zudem möchten wir die Fähigkeiten, die wir beim 2d Spiel erlernt habe, nun auch für 3d anwenden.
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
